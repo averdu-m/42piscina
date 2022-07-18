@@ -1,0 +1,1 @@
+find -E (*~|#*#) | xargs rm -v
